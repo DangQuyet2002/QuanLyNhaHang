@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPMwdb8Elbnymh57G+zhxSFWaDTSviZ4cb1SdPAEQA9jZGCM7BKug5TACfUa1BhAx/a6R6lBfa7JHiSWKMQHHw==",
+  "success": true,
+  "projectFilePath": "E:\\Angular 12\\WebAPIs\\QLNH\\QLNH\\QLNH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dang Quyet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
